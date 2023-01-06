@@ -9,3 +9,5 @@ image_name = "amzn2-ami-hvm-*-x86_64-gp2"
 db_username = "mydb"
 
 db_name = "admin"
+
+
